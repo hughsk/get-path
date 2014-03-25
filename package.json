@@ -1,0 +1,33 @@
+{
+  "name": "get-path",
+  "description": "Cross-platform means of getting the PATH environment variable name",
+  "version": "0.0.0",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "^2.12.0",
+    "faucet": "^0.0.1"
+  },
+  "scripts": {
+    "test": "node test | faucet"
+  },
+  "author": "Hugh Kennedy <hughskennedy@gmail.com> (http://hughsk.io/)",
+  "license": "MIT",
+  "homepage": "http://hughsk.github.io/get-path",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hughsk/get-path"
+  },
+  "bugs": {
+    "url": "https://github.com/hughsk/get-path/issues"
+  },
+  "keywords": [
+    "get",
+    "path",
+    "process",
+    "env",
+    "environment",
+    "variable",
+    "key"
+  ]
+}
